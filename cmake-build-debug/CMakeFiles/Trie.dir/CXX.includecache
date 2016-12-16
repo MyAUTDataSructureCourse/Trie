@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmad/ClionProjects/New/Trie/Trie.cpp
+Trie.h
+/home/ahmad/ClionProjects/New/Trie/Trie.h
+algorithm
+-
+
+/home/ahmad/ClionProjects/New/Trie/Trie.h
+string
+-
+
+/home/ahmad/ClionProjects/New/Trie/main.cpp
+iostream
+-
+Trie.h
+/home/ahmad/ClionProjects/New/Trie/Trie.h
+
